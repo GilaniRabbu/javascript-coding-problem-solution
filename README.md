@@ -1,4 +1,4 @@
-# Javascript Coding Problem Solution
+# Javascript Problem Solution
 
 1. [Word Count](#1-word-count)
 
